@@ -1,90 +1,71 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Elisha's Portfolio Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+A modern, responsive 3-page portfolio website showcasing my professional journey, skills, and personal interests.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+## 🌟 Features
 
----
+- **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
+- **Modern Animations** - Smooth transitions, hover effects, and scroll-triggered animations
+- **Multi-page Structure** - Clean navigation between Home, About, and Projects pages
+- **Interactive Elements** - Animated buttons, image hover effects, and form interactions
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## 📄 Pages
 
-Before you write any code, take time to plan:
+### 1. Home (index.html)
+- Hero section with profile photo and animated title
+- Programming skills showcase
+- Contact form
+- Call-to-action buttons
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+### 2. About (about.html)
+- Personal introduction and philosophy
+- Educational background and certifications
+- Professional interests with emoji icons
+- Hobbies section with visual images
+- CV download link
 
-**Goal:** Show intentional structure and user journey across the site.
+### 3. Projects (projects.html)
+- Portfolio project showcase
+- Technology tags for each project
+- Links to GitHub and LinkedIn profiles
 
----
+## 🛠️ Technologies Used
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+- **HTML5** - Semantic markup and structure
+- **CSS3** - Modern styling, animations, and responsive design
+- **JavaScript** - Interactive features and smooth scrolling
+- **Google Fonts** - Poppins and Righteous font families
+- **Unsplash Images** - High-quality hobby images
 
-Using your plan, begin building:
+## 🎨 Design Features
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+- Gradient backgrounds and modern color scheme
+- Fixed navigation with active page highlighting
+- Smooth scroll animations and parallax effects
+- Circular profile images with glow effects
+- Grid layouts for responsive content organization
+- Hover animations and button ripple effects
 
-Each page should:
+## 📱 Responsive Breakpoints
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+- **Desktop**: 1200px and above
+- **Tablet**: 768px - 1199px
+- **Mobile**: 480px - 767px
+- **Small Mobile**: 320px - 479px
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## 🚀 Getting Started
 
----
+1. Clone or download the repository
+2. Open `index.html` in your web browser
+3. Navigate between pages using the top navigation menu
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 📧 Contact
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+- **Email**: pelishas932@gmail.com
+- **GitHub**: [Pelishas](https://github.com/Pelishas)
+- **LinkedIn**: [Elisha Okonyo](https://www.linkedin.com/in/okonyo-elisha-b92a67208)
 
 ---
 
-## Deliverables
+*Built with passion for clean code and beautiful design* ✨
 
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
